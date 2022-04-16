@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning how to design interactive websites 
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me: imani@moongateguild.io
+- 📫 How to reach me: @FSHNIAM on twitter
 
 <!---
 imanihamida/imanihamida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
